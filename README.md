@@ -1,60 +1,70 @@
-# 👨‍💻 Pragadeesh L A
+# 👋 Hi, I'm Pragadeesh L A
 
-**Aspiring Software Engineer** | Hackathon Finalist | Problem-Solving Enthusiast  
-📞 +91-93631 30393 | 📧 pragadeesh9610@gmail.com  
-[LinkedIn Profile](#) | [GitHub](#)
+🎓 B.Tech IT student at PSG College of Technology  
+💻 Aspiring Software Engineer | Hackathon Finalist | Problem-Solving Enthusiast  
+🚀 I love turning ideas into elegant, scalable tech solutions.
 
----
+## 🚀 Interests
 
-## 🎓 Education
-
-**PSG College of Technology**, Coimbatore, India  
-*Bachelor of Technology in Information Technology*  
-CGPA: **8.51 / 10**  
-📅 *2023 – 2027*
-
-**Saradha Matriculation Higher Secondary School**, Villupuram, India  
-*Higher Secondary Education (State Board)*  
-Class XII Percentage: **97.83%**  
-📅 *2021 – 2023*
+- Data Structures & Algorithms  
+- Full-Stack Development  
+- Artificial Intelligence & Machine Learning  
+- Competitive Programming  
 
 ---
 
-## 💻 Technical Skills
+## 🧰 Technical Skills
 
-### 🖥 Frontend Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 💻 Languages  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 
-### 🛠 Backend Development
+---
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### 🗄️ Databases
-
+### 🗄 Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🧰 Tools & Platforms
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 📚 Frameworks & Libraries  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
-## 🌟 Areas of Interest
+### 🛠 Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- Data Structures and Algorithms  
-- Full Stack Development  
-- Artificial Intelligence  
-- Machine Learning  
-- Object-Oriented Programming
+---
+
+## 💡 What I Do
+
+- 🔧 Build full-stack web apps with Django, Flask and modern JS  
+- 🤖 Create AI/ML models using Python, TensorFlow & open-source datasets  
+- 🛠 Contribute to open-source and mentor peers in coding clubs  
+- 🎯 Compete in hackathons & coding challenges to sharpen problem-solving skills  
+
+---
+
+## 📈 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=**your-github-username**&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+
+📧 pragadeesh9610@gmail.com  
+🌐 [LinkedIn](https://linkedin.com/in/**your-linkedin-handle**) | [GitHub](https://github.com/**your-github-username**)
+
+---
+
+> “Code is the closest thing we have to magic.”
