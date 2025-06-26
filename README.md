@@ -63,7 +63,7 @@
 ## 📫 Let's Connect
 
 📧 pragadeesh9610@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/**your-linkedin-handle**) | [GitHub](https://github.com/**your-github-username**)
+🌐 [LinkedIn](https://linkedin.com/in/pragadeesh2005/) | [GitHub](https://github.com/**your-github-PragaDeesh05**)
 
 ---
 
