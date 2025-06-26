@@ -56,7 +56,7 @@
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=**your-github-username**&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=**your-github-PragaDeesh05**&layout=compact&theme=tokyonight)
 
 ---
 
